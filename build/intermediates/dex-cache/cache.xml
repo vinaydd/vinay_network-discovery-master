@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/9c011e9968b71493e35d2e4d700a7210d6eb2425/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4262bcd49b19d558c241bf8c68470fcc6fa1ac84">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2fe076df41e9d53ae4e0b44bfcd408c0c14a890/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/9b465a4eeecd8123c3062215133c7208425cfa0c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5493a7c08b74d424d08a23c68334893cfd2d5ee3">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e041ad94e3e89ba6d100697c9581a5fb6bfdb3f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/91a5dba1e118936ebeef6ce8462475284fc127ce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a6a8f0bfbb23a550a1258224936f739fab201a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/537f66d3ada437570261fbf8d904d6ab72aa0f49/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0cccf7679b2764a849f90e2b581e2ec8d411679f">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22613ff49f39616b691b9889e9265efc4b308726/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/175f84c1ca6b298da42e214bcd013683e60dc492/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60f9f1db29c28135f862ffde2388eec7e1eff250/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/980fef714a8cb50d7f137e728792b2c13c9b4a43/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fed9e7aaf2f9e0fa9271d6fcf0412f45eeda64d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/fb976892010c124c8894c7aa4f0bd24e0638f04e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d3a27693b28b46af644df8ce765f4252b32c9e87">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ad5b57950a91da6b7bb62dbb04bd14d49a8cd4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/0778d3d85b1689231d3514bdb45838181b11ba5d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="03711df0c11eb771a2115c76db9e271eddea1bb8">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_283cbfca641a68cb03a8b716772e48297267c54a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/54e6786b3314824c3c4d0f2a7aba1dd7e76b1860/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="acaf8846fcf5556493bdbe075b13ea664bb1e9f5">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6859896e323eca66358d24aa1f5fdf80cbc62a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/4711eb7d11eae618d6beb34ad119f687045bd323/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ba90907329e4ed429307d39490927b456838bf08">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bfb0e775e593ed24023fead7f83b7cd00532b5c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/a5d1e32cefd9c5918efac8270b03efea17276333/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f909161e9bac1dd36538a275f06cae462082316a">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a92797ee6755550de19d1329d17416c5ef68e433/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/95fcf17e1e5a3889e5168f447be212845853af19/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b45fc3a4f2efb0474465f45ef75e85ec033ef05f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/a1de61246a7617a2ac41ffb9ebf011ab4133ee57/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_61d4afe43610f2201b8f3a63f0e7986418843459/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/529775c7ae172ed1f1449a394018399456099148/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e015f5a6691f80b1f71e5299d48933be6a057963">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4970e40fc8ce2d2dffe5260db38a20fc9be0316/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/Desktop/android-network-discovery-master/app/libs/httpclient-4.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a91a27c5c07e9da44eeddbc4206e349735b26f4">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-4.2.3_93c6ecd4111e895e3e938e109d203b4e0cd96ab9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/07535000f58796e2d7849ae6b18217125b766cb6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3845958f9b976878e335705861af718e47c2eaba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/41d2219cb90f5857287b88db246fd57402a074a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a16fb81cb48f88dc9863fd2cef2d932fcf02ae5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/Desktop/android-network-discovery-master/library/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9b0f55bde8288b44778f563b983cd4fc4b8a9bf2">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/4/classes_fafdbaa2063b68d4d3a07e760afd255f7225a2fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/25454808dd3b759b7819b198771c6f491b7cf0dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e4ff475aad14939684efd3227ec19cd49e90888f">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_817f1ea14edd6bc6a408e1925976138f4f7ea17c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/783027bf83cac559768f3303a6d8791e5739506f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="424e509954db08079f78b20947e2cf120c045e48">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c3119c4798224c91f3dae497be1a25c9dee11cc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/6dc81171e50f7ccf17877c3e191eb5d6c5a399e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="543cbd7526b5bf05a5a1be344c53b1994f22a04f">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b189982daceb4b14b7528edca21cffa1f19f7f22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/d9a746b6232101b90aa5e78c14eaf789a6f0d8c6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c6a0af36142b32d1f81ab099b73e90a25e360e2">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa7dcfece974a4c13bcf88530471e705399de50a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/6e4227839e3809ba2d36f64c5ff7bd14c396506f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f351a1e5c9d43744bd54d63e0060a5e0c27e311/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/e37cd9f7470753e07933f8442c6b77d56ebd1be6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cdfe6f00bbbe6bf590b4306017d485d845ffc7e5">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b5652dcaaf75ba9eb4afd6de1dbc1124139e3b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/31ea196c715720068597cc3b9182764693d24ca2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="338791f0ad4a30593b69a9d083380ddb6789dd6a">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c494bd0fdf997b50d20e84e5d2360bfa7403947/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/5258ed7c2b49b5eb1e52b281e72c1e74128ecf7f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="79a435f1c45ac04593a5134d70da983305584e90">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1389defc6f6fdbcd1af19ad7c77ab9189d6ebfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/fa7f3a6bf0910b8cf792ebdd11b9034cba56c562/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9bc3e11fbff8e0d503ff795c12c73e1a6fad7a9">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_458f2b56b997bf2520c8014cf97fd51d4e237a6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/4a8bd05a2cd979ae4ba6e65918663572314ad2e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="50fde88f529e2c238d72467da774e113f47dc866">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_074c9e30896caa03e6477ff8bde9cccb55b68277/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/a4c01ec6f71700e2f2eb4bddec8d1420784d3208/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a3d07dfddc7c3c7547fb953847589d586f1e2077">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f861171a6c6ec56c231ba8280fff5792a0c52b09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/44f2b36a9a996ac726b12a6e44958c4497d843f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="240e5a7c620376184f3168cfdd36315b97b1fe07">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2defba809e35b6375e4f714e817cd70717f9af8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/51a453945678e789184845354af1eae9ecae27bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b84a791dc9bcda50cb84e4498e0502b3e4dfd47d">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f2b9cc70de47af6ba29c5d53c33628e53b6d394d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/8545ddbd1862292078d118d6d0ee9ac630247c35/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2df23fb8581e8503db6e33739b450f9eb4a8b30a">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fa9c7b192894de17d7494727d7182730bda0603/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/b4264bb8be462017fa80b47809d3b9adb0afab36/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da17a27c1a3052e21278135cc3d8c54342751d82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/831bae536c02b3e1ff1d6ff782276a3d3d83263a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="86e2c2399cfd7f8271b535b0e7d8ec092d0c6335">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c629b000dc9b8257f086878f750a0e2085d81e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/baa47afa33bd596937e99fa6d02fb7d85b07fd55/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="885bcb023a9b57ed31c305e2e94e31af909e21c5">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ec2654e94dec487ed0612f31ebea3d243b6e491/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/5d8bffd1ee9f7428c29e815ff2cb6762c9686bd8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98dd6ba62609de32b4b43cc4e01f8a187669f219/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa59b76e3757738206aeaf0318ee81ff50b70524/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/cb8d2cd5562472f755449029f4de6b2b06011d23/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="976b0a037981a05e685415093c67ad73c94d4846">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76d6b1d4d5719f354cd018134f3b1eada46a99e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/236f5146dc3c2866b610ae44258d21b43c6a03d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4802b21cc23549f7eba5edb802241091ad998b35">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d2efa1602d3ae21c5a5bf9662f87152b0d8cff58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/fbf712c8e014f0e249069a889ca3d6ee277040dd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bdea04535f0e69402fcfa279924bda598e0b39c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_b0ca96088bebe76c20d7b792c7eb5211a1a092e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.0/e019d15a13a9786f881141d2df6654b8510bce8b/core-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.0_a480a1aa1036e58f3eff727cba61b323ca8e820b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/67dfcba50daa0b527f029754ef624f8dbc85d39d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8544f3dda331393572835f2596668728af46a9c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/49056c36599ff02f86373ca66696ce267189230a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8946d124119b44657270a35f0008b3da5ec16b2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/ba787d63579905f2143ff568187a4dc1bcaf1bbc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3560fc891bbecd8982acbace15ccead59c3fedd1">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ef6db608b32df3fcee92d5937e62aa51aba9214/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/47baf8ca4d643f9a4ccc76ff43187482cb013ea9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="314299924c4866a8fea850a6ab10a7751fbce79d">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68d7e57f422ce9d29a75493dd8f760fc72e31b20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/537ebc1ce398d937ec294ae3d9b4f2dba7eec29c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_873b54bbf6d44c250086d3d2799d5eacff1c7014/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/b2aefa39dc441888009b417b9ce145b646a4f287/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="68a1346f52b0e623460bf2f70c59c59a7a34bcea">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1442ee658529e2ab2c5581942451407129137f76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/a77495564b3326ffcb38f57eef9d4a548d102541/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65436b89dd7e53673c6813954ab4c4246f18e13a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/3e345efa2493fccf4dec1d5b9b505d9839adc448/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="15857dce424132cb53e37cba16b9d587a6c5c568">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0695fad25bf69e4db7f1b580ef9e9d1f63a1d81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ed627496d0ccdccd8f33e7b44d9bb0b51cfcdf6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/27ef4e866da6e78e30b86fb19922281014c7de23/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="acd4f9fad8500386084346a88ca47e2b66e84ffd">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae26f1c5759ff6284dbf4235b34bc9da9de29fa6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/88fbd23825d1448992ac0ba8a2415d4b7299788b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_998596c8cf95aa32a81bf8aa97d97f0548b05c37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/21c3d63510ca531824961e6b914d916d467da3a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_068779cece24d70ea5060b1ee4e1daf4b7e99fdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/81f0a89c8c91b2f4ae89dc3ee30dd0a416eddc3e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5bad89ac06f1015490c3332c1cd160be1d17c049">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79b6b376c456eb822375d633ca848facb215ba9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/272499c7b9ba94522114103e90ebda44050e23bc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77e5cb3a20c9a68e574256e68dfea69a79faf440/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/cb6457db809d43b3f4cb27bc32bda112816aebca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dbbba1fc0f6c51382c3fa1f9223d1f6f9144f359">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_831910aab385eb356c44f762d53947f7b503f5fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/bd895614693998e4c4a6b2600db1a4b41d8ff279/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f813cc0713085e46735bcabf9def2ffb6419de7">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45da728f121fc0f1b281b47bc440b852da4f8994/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/a4ac372ee3ed31f3beca0dd07c4515b727a18cd7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="587840a157b50a6380d814a7a5a87b76118405e2">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5af033db2160b2fbe68bf8ca39f32159cadb3e30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/eab7ad0f323960f965753bb2f27fc084dea5fbaf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2bae22c4925830cc03e81f4911f62b445bf132f">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b55b588e880d4b34ffe78f670b2a5a8fcea1b7ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/c1c2d5168eed18005aad6ab6798bddcb4468bc68/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1fd6dc27f1ebe5bdbf26aa54773d11327f91532b">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a0a332fcbc065aa5e08634b428b72556ab37bc6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/f78f0c03ca3d70a81a990d586fc5be43db6666a9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="25c862ccc7a67cc4682ea9cacf08918693e915ef">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32b20c47784efef08528fcb871fe0d71eb0cd927/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/e37f3b96efbc5474d74e6e8d8a1a1fca44070aed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4737d9835cf3ea9751f7d6647be60900062d1062">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_00c4bcb646d83d1e7085a3913e892370f864c1eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/d9644da267bfda8f2acae0ca75268f4299127735/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="db939a450ea2a721db84e774bf108e20c44a8a1d">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ae0937a939b017f4ec0c7242285d95ad8f31831/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/328a4164afc859110d96996192c46ba348006b99/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_94ea942b74aac7f49e6ec09ca6331037974c8afa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/f0a15e6b1e1b3e9dd0076e47e0c9d4fc1fda8609/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f260cdc1a267b17b911022919f19d568e6624229">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8574ba6fd5f63f364307fce904cea2e3ed4764f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/44e64aa5129ca44eef1099e02b662b9c87de59ce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e8c74e789b51b9da4070aeaed71bae36c3d244f">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9da10d924184b25a5f9ea3f2f62ca6699896a78d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/d57e4fe8b43262ba4244ec9868f6f9fd4963cbde/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a5da59bfe8bee5a41daa7c26b970b12699ac8db">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_affba6150ea5980e64586b0c7fe17063de1ab45e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/899f3793a8ba3ec58934f84cd2df3d6efab42e37/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7357cef91864a283c8db913866f50bafbe8c6801">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d864570ef9049bf47ca4f05d42aa18e9bf317db6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sharadsingh/.android/build-cache/a7ec0d03e306ced3a83ed5328b335be2e714bb2d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f4911f1b61cac908ffe8b8dec3ce17032b05fb8/classes.dex" />
+    </item>
+
+</items>

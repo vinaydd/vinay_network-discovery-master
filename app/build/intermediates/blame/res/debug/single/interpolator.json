@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/a77495564b3326ffcb38f57eef9d4a548d102541/output/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/a77495564b3326ffcb38f57eef9d4a548d102541/output/res/interpolator/mr_linear_out_slow_in.xml"
+    }
+]

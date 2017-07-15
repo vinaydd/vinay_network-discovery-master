@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/raw/saves.bin",
+        "source": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/res/raw/saves.bin"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/raw/services.bin",
+        "source": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/res/raw/services.bin"
+    }
+]

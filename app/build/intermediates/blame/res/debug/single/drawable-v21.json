@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/67dfcba50daa0b527f029754ef624f8dbc85d39d/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/272499c7b9ba94522114103e90ebda44050e23bc/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/272499c7b9ba94522114103e90ebda44050e23bc/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/272499c7b9ba94522114103e90ebda44050e23bc/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/272499c7b9ba94522114103e90ebda44050e23bc/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

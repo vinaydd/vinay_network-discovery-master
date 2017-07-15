@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/0778d3d85b1689231d3514bdb45838181b11ba5d/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/272499c7b9ba94522114103e90ebda44050e23bc/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/272499c7b9ba94522114103e90ebda44050e23bc/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/272499c7b9ba94522114103e90ebda44050e23bc/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/272499c7b9ba94522114103e90ebda44050e23bc/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

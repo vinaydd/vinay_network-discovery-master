@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Copyright (C) 2009-2010 Aubort Jean-Baptiste (Rorist)
+ Licensed under GNU's GPL 2, see README
+-->
+<resources>
+    <color name="grey">#cccccc</color>
+    <color name="orange1">#179aec</color>
+    <color name="orange2">#179aec</color>
+    <color name="orange3">#179aec</color>
+</resources>

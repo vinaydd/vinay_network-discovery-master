@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/ba787d63579905f2143ff568187a4dc1bcaf1bbc/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/ba787d63579905f2143ff568187a4dc1bcaf1bbc/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/ba787d63579905f2143ff568187a4dc1bcaf1bbc/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    }
+]

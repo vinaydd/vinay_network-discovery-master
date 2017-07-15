@@ -1,0 +1,42 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.3"
+    useLibrary 'org.apache.http.legacy'
+
+    defaultConfig {
+        applicationId "info.lamatricexiste.network"
+        minSdkVersion 16
+        targetSdkVersion 25
+        multiDexEnabled true
+    }
+    dexOptions {
+        javaMaxHeapSize "8g" //specify the heap size for the dex process
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    dependencies {
+        compile fileTree(include: ['*.jar'], dir: 'libs')
+        testCompile 'junit:junit:4.12'
+        compile project(':library')
+        compile files('libs/httpclient-4.2.3.jar')
+        compile 'com.android.support:multidex:1.0.1'
+        compile 'com.google.android.gms:play-services:11.0.2'
+        compile 'com.google.android.gms:play-services-ads:11.0.2'
+        compile 'com.google.android.gms:play-services-auth:11.0.2'
+        compile 'com.google.android.gms:play-services-gcm:11.0.2'
+        compile 'com.android.support:cardview-v7:25.0.0'
+        compile 'com.google.zxing:core:3.2.0'
+        compile 'com.squareup.picasso:picasso:2.3.2'
+        compile 'com.android.support:design:25.0.0'
+        repositories {
+            mavenCentral()
+        }
+    }
+}
+

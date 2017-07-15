@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/67dfcba50daa0b527f029754ef624f8dbc85d39d/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/67dfcba50daa0b527f029754ef624f8dbc85d39d/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/sharadsingh/.android/build-cache/67dfcba50daa0b527f029754ef624f8dbc85d39d/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

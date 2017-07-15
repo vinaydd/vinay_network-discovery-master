@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_zoom_in_black_24dp.xml",
+        "source": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_zoom_in_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_arrow_back_black_24dp.xml",
+        "source": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_format_align_center_black_24dp.xml",
+        "source": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_format_align_center_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_timer_black_24dp.xml",
+        "source": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_timer_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_power_settings_new_black_24dp.xml",
+        "source": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_power_settings_new_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_all_out_black_24dp.xml",
+        "source": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_all_out_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_refresh_black_24dp.xml",
+        "source": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_refresh_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_trending_up_black_24dp.xml",
+        "source": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_trending_up_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_signal_wifi_2_bar_black_24dp.xml",
+        "source": "/Users/sharadsingh/Desktop/android-network-discovery-master/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_signal_wifi_2_bar_black_24dp.xml"
+    }
+]

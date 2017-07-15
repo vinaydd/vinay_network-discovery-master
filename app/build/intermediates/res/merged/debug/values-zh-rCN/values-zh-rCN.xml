@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="method_discover_name">
+        <item>Ping/connect (default)</item>
+        <item>DNS requests</item>
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"关闭"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"开启"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"通过%s分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
+    <string name="app_loading">加载中</string>
+    <string name="app_name">Network Discovery</string>
+    <string name="btn_back">返回</string>
+    <string name="btn_close">关闭</string>
+    <string name="btn_discover">发掘</string>
+    <string name="btn_discover_cancel">取消</string>
+    <string name="btn_no">否</string>
+    <string name="btn_options">选项</string>
+    <string name="btn_scan">扫描</string>
+    <string name="btn_yes">是</string>
+    <string msgid="4778414446709286370" name="cast_ad_label">"广告"</string>
+    <string msgid="366047012176970604" name="cast_casting_to_device">"正在投射到%1$s"</string>
+    <string msgid="2888745622334830481" name="cast_closed_captions">"字幕"</string>
+    <string msgid="4476421850100851087" name="cast_closed_captions_unavailable">"无可用字幕"</string>
+    <string msgid="4431992200264667209" name="cast_disconnect">"断开连接"</string>
+    <string msgid="5668979866539349222" name="cast_expanded_controller_ad_image_description">"投射接收器播放广告时显示的图片"</string>
+    <string msgid="9069517964239146855" name="cast_expanded_controller_ad_in_progress">"广告进行中…"</string>
+    <string msgid="8886260998635257149" name="cast_expanded_controller_background_image">"专辑封面"</string>
+    <string msgid="1316611227831672183" name="cast_expanded_controller_live_stream_indicator">"直播"</string>
+    <string msgid="7334411994450681286" name="cast_expanded_controller_loading">"正在加载…"</string>
+    <string msgid="8399595886048969508" name="cast_expanded_controller_skip_ad_label">"跳过"</string>
+    <string msgid="7884080323096468593" name="cast_forward">"快进"</string>
+    <string msgid="6424889955881797947" name="cast_forward_10">"快进 10 秒"</string>
+    <string msgid="7868672855975238403" name="cast_forward_30">"快进 30 秒"</string>
+    <string msgid="6885943100773268783" name="cast_intro_overlay_button_text">"@android:string/ok"</string>
+    <string msgid="5637297909372905371" name="cast_mute">"静音"</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"已连接到<ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"正在连接到<ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"断开连接"</string>
+    <string msgid="5308503786390460607" name="cast_pause">"暂停"</string>
+    <string msgid="5906987965619702702" name="cast_play">"播放"</string>
+    <string msgid="1739665135565985480" name="cast_rewind">"快退"</string>
+    <string msgid="6432793028560778843" name="cast_rewind_10">"快退 10 秒"</string>
+    <string msgid="4677199707225681325" name="cast_rewind_30">"快退 30 秒"</string>
+    <string msgid="9078075166993780241" name="cast_seek_bar">"播放进度滑块控件"</string>
+    <string msgid="3991548379225047363" name="cast_skip_next">"跳至下一项"</string>
+    <string msgid="8369073097776576935" name="cast_skip_prev">"跳至上一项"</string>
+    <string msgid="9191388946729723891" name="cast_stop">"停止"</string>
+    <string msgid="1219622777438777099" name="cast_stop_live_stream">"停止直播"</string>
+    <string msgid="4250321332248956563" name="cast_tracks_chooser_dialog_audio">"音频"</string>
+    <string msgid="1162380934229249476" name="cast_tracks_chooser_dialog_cancel">"取消"</string>
+    <string msgid="1779359505126875127" name="cast_tracks_chooser_dialog_closed_captions">"字幕"</string>
+    <string msgid="3012268736704635952" name="cast_tracks_chooser_dialog_default_track_name">"曲目 <ns1:g id="POSITION">%1$d</ns1:g>"</string>
+    <string msgid="1176688358580178396" name="cast_tracks_chooser_dialog_none">"无"</string>
+    <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"确定"</string>
+    <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"字幕"</string>
+    <string msgid="2913461521603516868" name="cast_unmute">"取消静音"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"启用"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"您必须先启用 Google Play 服务，然后才能运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"启用 Google Play 服务"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"安装"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"您的设备没有安装 Google Play 服务，因此无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"获取 Google Play 服务"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play服务出错"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>无法访问 Google Play 服务，请重试。"</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"您的设备不支持 Google Play 服务，因此无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"您必须先更新 Google Play 服务，然后才能运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"更新 Google Play 服务"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Google Play 服务当前正在更新，因此您无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"必须使用新版 Google Play 服务。该服务很快就会自行更新。"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"在手机上打开"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"登录"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"使用 Google 帐号登录"</string>
+    <string name="discover_canceled">已取消发掘！</string>
+    <string name="discover_empty">Press Discover to start</string>
+    <string name="discover_finished">发掘完成！</string>
+    <string name="discover_start">开始发掘 ...</string>
+    <string name="export_choose">选择目标文件</string>
+    <string name="export_exists_msg">是否需要覆盖文件？</string>
+    <string name="export_exists_title">文件已存在</string>
+    <string name="export_finished">文件已保存！</string>
+    <string name="export_save">保存</string>
+    <string name="help_discovery_content">正在使用的方法，并不需要有root权限。在将来的版本将会有更先进的技术，非root权限下的功能将更加完美。\n\n这儿说明软件是怎样工作的: \n1. 计算子网络范围\n2. 重复连接 IP 并验证之\n3. 首选它将发送一个ICMP包Ping主机，或者回显在TCP/7 (使用 InetAddress.isReachable())\n4. 如果不起作用，则尝试利用一些常用端口进行连接，如: 135, 139, 22, 111, 80\n5. 如果以上方式都没有成功，则是未发掘到主机</string>
+    <string name="help_discovery_title">主机发掘</string>
+    <string name="help_links_content">- 扫描 TCP 连接：http://nmap.org/book/man-port-scanning-techniques.html#id421401\n\n- 主机发掘：http://nmap.org/book/man-host-discovery.html\n\n- 安智网汉化（http://goapk.com)</string>
+    <string name="help_links_title">链接</string>
+    <string name="help_portscan_content">端口扫描是事件驱动，使用JAVA选择器和Socket通道。\n在以毫秒为单位的时间注册Socket创建时会产生一个假超时，会定期检查它。\n端口扫描方式，如发掘，使用完全的TCP连接扫描。(将来结合root功能将有更多的粒度连接。)\n\n同一时间最多能有127个Sockets通信进程，所以这并不总是精确的，但是很快。同样的，将来会有一个新功能以适应请求发出以及主机响应之间的时间时间(网络拥挤控制类软件)\n\n当TCP连接是成功的，则认为端口是开放的；而当监听结束时仍未发现任何服务或者过滤器超时则认为端口是关闭的。</string>
+    <string name="help_portscan_title">端口扫描</string>
+    <string name="info_unknown">未知</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"投射按钮"</string>
+    <string msgid="5088427771788648085" name="mr_cast_button_connected">"投射按钮。已连接"</string>
+    <string msgid="2187642765091873834" name="mr_cast_button_connecting">"投射按钮。正在连接"</string>
+    <string msgid="816305490427819240" name="mr_cast_button_disconnected">"投射按钮。已断开连接"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"正在查找设备"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"投射到"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"专辑封面"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"正在投射屏幕"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"关闭"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"折叠"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"断开连接"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"展开"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"没有任何相关信息"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"未选择任何媒体"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"暂停"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"播放"</string>
+    <string msgid="4570331844078181931" name="mr_controller_stop">"停止投射"</string>
+    <string msgid="2361785992211841709" name="mr_controller_volume_slider">"音量滑块"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"系统"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"设备"</string>
+    <string name="package_missing">必须从市场上安装 %s ！</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"清除搜索内容"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"搜索"</string>
+    <string name="preferences_advanced">高级设置</string>
+    <string name="preferences_allow_mobile_summary">Scan over edge/3g/... usually leading to strange results, if any</string>
+    <string name="preferences_allow_mobile_title">Allow mobile discovery</string>
+    <string name="preferences_banner_summary">连接到TCP端口并打印出利用监听服务获取的信息(将产生一定的流量)</string>
+    <string name="preferences_banner_title">服务广告</string>
+    <string name="preferences_credits">學分</string>
+    <string name="preferences_discover">发掘设置</string>
+    <string name="preferences_discover_method_summary">Change to different method of host discovery</string>
+    <string name="preferences_discover_method_title">Discover Method</string>
+    <string name="preferences_discover_method_title_dialog">Choose a method</string>
+    <string name="preferences_email_title">Contact</string>
+    <string name="preferences_error1">错误：起始端口大于终止端口！</string>
+    <string name="preferences_error3">错误：文件传输中断！</string>
+    <string name="preferences_error4">Error: Value is not a valid IP address !</string>
+    <string name="preferences_export">导出</string>
+    <string name="preferences_help">帮助</string>
+    <string name="preferences_intf_summary">Choose which interface to use</string>
+    <string name="preferences_intf_title">Network interface</string>
+    <string name="preferences_ip_custom_summary">Manually set start/end IPs</string>
+    <string name="preferences_ip_custom_title">Custom IP range</string>
+    <string name="preferences_ip_end_summary">Last IP address to scan</string>
+    <string name="preferences_ip_end_title">IP end</string>
+    <string name="preferences_ip_start_summary">First IP address to scan</string>
+    <string name="preferences_port_end_summary">扫描时的终止 TCP 端口。1-65535</string>
+    <string name="preferences_port_end_title">终止端口</string>
+    <string name="preferences_port_start_summary">扫描时的起始 TCP 端口。 1-65535</string>
+    <string name="preferences_port_start_title">起始端口</string>
+    <string name="preferences_portscan">端口扫描设置</string>
+    <string name="preferences_ratecontrol_enable_summary">启用速率自动检测</string>
+    <string name="preferences_ratecontrol_enable_title">速率控制</string>
+    <string name="preferences_resetdb_action">是否需要下载网卡数据库？ (~%sk)</string>
+    <string name="preferences_resetdb_ok">已升级数据库！更新 %s 个新条目 ...</string>
+    <string name="preferences_resetdb_summary">获取并更新MAC地址数据库</string>
+    <string name="preferences_resetdb_title">更新信用卡資料庫</string>
+    <string name="preferences_resolve_name_summary">使用系統 DNS來解析IP地址</string>
+    <string name="preferences_resolve_name_title">解析主机名</string>
+    <string name="preferences_ssh_user_summary">SSH 连接的用户名</string>
+    <string name="preferences_ssh_user_title">SSH 用户</string>
+    <string name="preferences_timeout_discover_summary">主机发掘的毫秒数</string>
+    <string name="preferences_timeout_discover_title">自定义速率</string>
+    <string name="preferences_timeout_force_summary">手动设置连接超时</string>
+    <string name="preferences_timeout_force_title">自定义超时</string>
+    <string name="preferences_timeout_summary">端口连接超时的毫秒数</string>
+    <string name="preferences_timeout_title">连接超时</string>
+    <string name="preferences_version_title">Version</string>
+    <string name="preferences_vibrate_summary">当扫描完成后震动</string>
+    <string name="preferences_vibrate_title">震动</string>
+    <string name="preferences_website_title">Website</string>
+    <string msgid="368094699078615544" name="s1">"保存图片"</string>
+    <string msgid="4550830452390689489" name="s2">"允许广告将图片存储在图库中吗？"</string>
+    <string msgid="2435407834265420668" name="s3">"接受"</string>
+    <string msgid="9167523597401839819" name="s4">"拒绝"</string>
+    <string msgid="1566682516266724847" name="s5">"创建日历活动"</string>
+    <string msgid="5996672174517137271" name="s6">"允许广告创建日历活动吗？"</string>
+    <string name="scan_canceled">已取消扫描！</string>
+    <string name="scan_closed">已关闭 (%s)</string>
+    <string name="scan_connect">连接</string>
+    <string name="scan_finished">扫描完成！</string>
+    <string name="scan_host_unreachable">主机未响应！</string>
+    <string name="scan_noaction">无相关操作！</string>
+    <string name="scan_noport">未发现打开的端口！</string>
+    <string name="scan_open">已打开 (%s)</string>
+    <string name="scan_single_summary">输入一个IP地址或者域名以供扫描，例如 scanme.nmap.org</string>
+    <string name="scan_single_title">扫描 IP</string>
+    <string name="scan_start">开始扫描 ...</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜索"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="363496807345461806" name="wallet_buy_button_place_holder">"通过 Google 购买"</string>
+    <string name="wifi_associating">Wifi是用 %s 联入的</string>
+    <string name="wifi_dhcp">正在从 %s 获取IP地址</string>
+    <string name="wifi_disabled">Wifi 已关闭</string>
+    <string name="wifi_disabling">Wifi 关闭中</string>
+    <string name="wifi_enabled">Wifi 已开启</string>
+    <string name="wifi_enabling">Wifi 启用中</string>
+    <string name="wifi_scanning">Wifi 扫描中</string>
+    <string name="wifi_unknown">Wifi 状态未知</string>
+</resources>

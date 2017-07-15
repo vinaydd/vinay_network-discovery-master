@@ -1,0 +1,515 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:2:1-71:12
+	package
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:4:5-42
+		INJECTED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:6:5-32
+		INJECTED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:5:5-29
+		INJECTED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:3:5-63
+	android:installLocation
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:7:5-45
+application
+ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:9:5-61:19
+MERGED from [android-network-discovery-master:library:unspecified] /Users/sharadsingh/Desktop/android-network-discovery-master/library/build/intermediates/bundles/default/AndroidManifest.xml:13:5-20
+MERGED from [com.google.android.gms:play-services:11.0.2] /Users/sharadsingh/.android/build-cache/cbc781d3140f592d714fe22f00010fa1286b6d08/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/5258ed7c2b49b5eb1e52b281e72c1e74128ecf7f/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/sharadsingh/.android/build-cache/d57e4fe8b43262ba4244ec9868f6f9fd4963cbde/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.2] /Users/sharadsingh/.android/build-cache/81f0a89c8c91b2f4ae89dc3ee30dd0a416eddc3e/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.0.2] /Users/sharadsingh/.android/build-cache/899f3793a8ba3ec58934f84cd2df3d6efab42e37/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/sharadsingh/.android/build-cache/a77495564b3326ffcb38f57eef9d4a548d102541/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/sharadsingh/.android/build-cache/537ebc1ce398d937ec294ae3d9b4f2dba7eec29c/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-config:11.0.2] /Users/sharadsingh/.android/build-cache/537f66d3ada437570261fbf8d904d6ab72aa0f49/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.2] /Users/sharadsingh/.android/build-cache/e37cd9f7470753e07933f8442c6b77d56ebd1be6/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:11.0.2] /Users/sharadsingh/.android/build-cache/4711eb7d11eae618d6beb34ad119f687045bd323/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:11.0.2] /Users/sharadsingh/.android/build-cache/44e64aa5129ca44eef1099e02b662b9c87de59ce/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.2] /Users/sharadsingh/.android/build-cache/c1c2d5168eed18005aad6ab6798bddcb4468bc68/output/AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-messaging:11.0.2] /Users/sharadsingh/.android/build-cache/f0a15e6b1e1b3e9dd0076e47e0c9d4fc1fda8609/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.2] /Users/sharadsingh/.android/build-cache/8545ddbd1862292078d118d6d0ee9ac630247c35/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.2] /Users/sharadsingh/.android/build-cache/cb8d2cd5562472f755449029f4de6b2b06011d23/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.2] /Users/sharadsingh/.android/build-cache/3e345efa2493fccf4dec1d5b9b505d9839adc448/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.2] /Users/sharadsingh/.android/build-cache/47baf8ca4d643f9a4ccc76ff43187482cb013ea9/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.2] /Users/sharadsingh/.android/build-cache/44f2b36a9a996ac726b12a6e44958c4497d843f6/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.2] /Users/sharadsingh/.android/build-cache/d9a746b6232101b90aa5e78c14eaf789a6f0d8c6/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.2] /Users/sharadsingh/.android/build-cache/54e6786b3314824c3c4d0f2a7aba1dd7e76b1860/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.2] /Users/sharadsingh/.android/build-cache/0778d3d85b1689231d3514bdb45838181b11ba5d/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.2] /Users/sharadsingh/.android/build-cache/bd895614693998e4c4a6b2600db1a4b41d8ff279/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/sharadsingh/.android/build-cache/eab7ad0f323960f965753bb2f27fc084dea5fbaf/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/sharadsingh/.android/build-cache/a1de61246a7617a2ac41ffb9ebf011ab4133ee57/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.2] /Users/sharadsingh/.android/build-cache/6e4227839e3809ba2d36f64c5ff7bd14c396506f/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.2] /Users/sharadsingh/.android/build-cache/25454808dd3b759b7819b198771c6f491b7cf0dc/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.2] /Users/sharadsingh/.android/build-cache/6dc81171e50f7ccf17877c3e191eb5d6c5a399e7/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.2] /Users/sharadsingh/.android/build-cache/529775c7ae172ed1f1449a394018399456099148/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] /Users/sharadsingh/.android/build-cache/b2aefa39dc441888009b417b9ce145b646a4f287/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.2] /Users/sharadsingh/.android/build-cache/baa47afa33bd596937e99fa6d02fb7d85b07fd55/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /Users/sharadsingh/.android/build-cache/d9644da267bfda8f2acae0ca75268f4299127735/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.2] /Users/sharadsingh/.android/build-cache/51a453945678e789184845354af1eae9ecae27bd/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/sharadsingh/.android/build-cache/a5d1e32cefd9c5918efac8270b03efea17276333/output/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.2] /Users/sharadsingh/.android/build-cache/27ef4e866da6e78e30b86fb19922281014c7de23/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.2] /Users/sharadsingh/.android/build-cache/e37f3b96efbc5474d74e6e8d8a1a1fca44070aed/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.2] /Users/sharadsingh/.android/build-cache/a4ac372ee3ed31f3beca0dd07c4515b727a18cd7/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-auth:11.0.2] /Users/sharadsingh/.android/build-cache/ba787d63579905f2143ff568187a4dc1bcaf1bbc/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.2] /Users/sharadsingh/.android/build-cache/783027bf83cac559768f3303a6d8791e5739506f/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /Users/sharadsingh/.android/build-cache/fb976892010c124c8894c7aa4f0bd24e0638f04e/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/sharadsingh/.android/build-cache/175f84c1ca6b298da42e214bcd013683e60dc492/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/sharadsingh/.android/build-cache/a7ec0d03e306ced3a83ed5328b335be2e714bb2d/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/sharadsingh/.android/build-cache/328a4164afc859110d96996192c46ba348006b99/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:cardview-v7:25.0.0] /Users/sharadsingh/.android/build-cache/980fef714a8cb50d7f137e728792b2c13c9b4a43/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:25.0.0] /Users/sharadsingh/.android/build-cache/67dfcba50daa0b527f029754ef624f8dbc85d39d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/sharadsingh/.android/build-cache/272499c7b9ba94522114103e90ebda44050e23bc/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/sharadsingh/.android/build-cache/07535000f58796e2d7849ae6b18217125b766cb6/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/sharadsingh/.android/build-cache/21c3d63510ca531824961e6b914d916d467da3a5/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.0.0] /Users/sharadsingh/.android/build-cache/fbf712c8e014f0e249069a889ca3d6ee277040dd/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/sharadsingh/.android/build-cache/49056c36599ff02f86373ca66696ce267189230a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/sharadsingh/.android/build-cache/88fbd23825d1448992ac0ba8a2415d4b7299788b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/sharadsingh/.android/build-cache/41d2219cb90f5857287b88db246fd57402a074a8/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/sharadsingh/.android/build-cache/95fcf17e1e5a3889e5168f447be212845853af19/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/sharadsingh/.android/build-cache/91a5dba1e118936ebeef6ce8462475284fc127ce/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/sharadsingh/.android/build-cache/b4264bb8be462017fa80b47809d3b9adb0afab36/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:11:9-41
+	android:debuggable
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:12:9-34
+	android:icon
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:10:9-45
+activity#info.lamatricexiste.network.ActivityMain
+ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:16:13-45
+	android:configChanges
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:17:13-72
+	android:name
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:15:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:20:27-74
+activity#info.lamatricexiste.network.ActivityDiscovery
+ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:24:9-28:75
+	android:label
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:26:13-45
+	android:configChanges
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:28:13-72
+	android:theme
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:27:13-47
+	android:name
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:25:13-46
+activity#info.lamatricexiste.network.MainActivity
+ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:31:9-35:12
+	android:configChanges
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:34:13-72
+	android:theme
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:33:13-47
+	android:name
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:32:13-41
+activity#info.lamatricexiste.network.ActivityPortscan
+ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:37:9-45:20
+	android:label
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:39:13-45
+	android:configChanges
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:40:13-60
+	android:name
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:38:13-45
+intent-filter#.SCAN_HOST+android.intent.category.DEFAULT
+ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:41:13-44:29
+action#.SCAN_HOST
+ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:42:17-53
+	android:name
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:42:25-50
+category#android.intent.category.DEFAULT
+ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:43:27-73
+activity#info.lamatricexiste.network.Utils.Prefs
+ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:47:9-55:20
+	android:label
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:49:13-45
+	android:configChanges
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:48:13-40
+intent-filter#android.intent.category.DEFAULT+android.intent.category.PREFERENCE
+ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:51:13-54:29
+category#android.intent.category.PREFERENCE
+ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:53:17-79
+	android:name
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:53:27-76
+activity#info.lamatricexiste.network.Utils.Help
+ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:57:9-59:48
+	android:label
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:59:13-45
+	android:name
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:58:13-39
+supports-screens
+ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:63:5-25
+uses-sdk
+ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:65:5-72
+MERGED from [android-network-discovery-master:library:unspecified] /Users/sharadsingh/Desktop/android-network-discovery-master/library/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] /Users/sharadsingh/.android/build-cache/a557ef5afe59926c57ed3587a16513e0cdc63dc9/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:11.0.2] /Users/sharadsingh/.android/build-cache/cbc781d3140f592d714fe22f00010fa1286b6d08/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/5258ed7c2b49b5eb1e52b281e72c1e74128ecf7f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/sharadsingh/.android/build-cache/d57e4fe8b43262ba4244ec9868f6f9fd4963cbde/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.2] /Users/sharadsingh/.android/build-cache/fa7f3a6bf0910b8cf792ebdd11b9034cba56c562/output/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.2] /Users/sharadsingh/.android/build-cache/81f0a89c8c91b2f4ae89dc3ee30dd0a416eddc3e/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.2] /Users/sharadsingh/.android/build-cache/899f3793a8ba3ec58934f84cd2df3d6efab42e37/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/sharadsingh/.android/build-cache/a77495564b3326ffcb38f57eef9d4a548d102541/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/sharadsingh/.android/build-cache/537ebc1ce398d937ec294ae3d9b4f2dba7eec29c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.2] /Users/sharadsingh/.android/build-cache/537f66d3ada437570261fbf8d904d6ab72aa0f49/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.2] /Users/sharadsingh/.android/build-cache/e37cd9f7470753e07933f8442c6b77d56ebd1be6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.2] /Users/sharadsingh/.android/build-cache/4711eb7d11eae618d6beb34ad119f687045bd323/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.2] /Users/sharadsingh/.android/build-cache/44e64aa5129ca44eef1099e02b662b9c87de59ce/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.2] /Users/sharadsingh/.android/build-cache/236f5146dc3c2866b610ae44258d21b43c6a03d1/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.2] /Users/sharadsingh/.android/build-cache/9c011e9968b71493e35d2e4d700a7210d6eb2425/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.2] /Users/sharadsingh/.android/build-cache/c1c2d5168eed18005aad6ab6798bddcb4468bc68/output/AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-messaging:11.0.2] /Users/sharadsingh/.android/build-cache/f0a15e6b1e1b3e9dd0076e47e0c9d4fc1fda8609/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.2] /Users/sharadsingh/.android/build-cache/cb6457db809d43b3f4cb27bc32bda112816aebca/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.2] /Users/sharadsingh/.android/build-cache/831bae536c02b3e1ff1d6ff782276a3d3d83263a/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.2] /Users/sharadsingh/.android/build-cache/8545ddbd1862292078d118d6d0ee9ac630247c35/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.2] /Users/sharadsingh/.android/build-cache/cb8d2cd5562472f755449029f4de6b2b06011d23/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.2] /Users/sharadsingh/.android/build-cache/3e345efa2493fccf4dec1d5b9b505d9839adc448/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.2] /Users/sharadsingh/.android/build-cache/47baf8ca4d643f9a4ccc76ff43187482cb013ea9/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.2] /Users/sharadsingh/.android/build-cache/31ea196c715720068597cc3b9182764693d24ca2/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.2] /Users/sharadsingh/.android/build-cache/44f2b36a9a996ac726b12a6e44958c4497d843f6/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.2] /Users/sharadsingh/.android/build-cache/d9a746b6232101b90aa5e78c14eaf789a6f0d8c6/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.2] /Users/sharadsingh/.android/build-cache/54e6786b3314824c3c4d0f2a7aba1dd7e76b1860/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.2] /Users/sharadsingh/.android/build-cache/0778d3d85b1689231d3514bdb45838181b11ba5d/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.2] /Users/sharadsingh/.android/build-cache/bd895614693998e4c4a6b2600db1a4b41d8ff279/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.2] /Users/sharadsingh/.android/build-cache/4a8bd05a2cd979ae4ba6e65918663572314ad2e5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/sharadsingh/.android/build-cache/eab7ad0f323960f965753bb2f27fc084dea5fbaf/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/sharadsingh/.android/build-cache/a1de61246a7617a2ac41ffb9ebf011ab4133ee57/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.2] /Users/sharadsingh/.android/build-cache/6e4227839e3809ba2d36f64c5ff7bd14c396506f/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.2] /Users/sharadsingh/.android/build-cache/25454808dd3b759b7819b198771c6f491b7cf0dc/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.2] /Users/sharadsingh/.android/build-cache/6dc81171e50f7ccf17877c3e191eb5d6c5a399e7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.2] /Users/sharadsingh/.android/build-cache/529775c7ae172ed1f1449a394018399456099148/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.2] /Users/sharadsingh/.android/build-cache/b2aefa39dc441888009b417b9ce145b646a4f287/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.2] /Users/sharadsingh/.android/build-cache/f78f0c03ca3d70a81a990d586fc5be43db6666a9/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.2] /Users/sharadsingh/.android/build-cache/baa47afa33bd596937e99fa6d02fb7d85b07fd55/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /Users/sharadsingh/.android/build-cache/d9644da267bfda8f2acae0ca75268f4299127735/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.2] /Users/sharadsingh/.android/build-cache/51a453945678e789184845354af1eae9ecae27bd/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.2] /Users/sharadsingh/.android/build-cache/9b465a4eeecd8123c3062215133c7208425cfa0c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/sharadsingh/.android/build-cache/a5d1e32cefd9c5918efac8270b03efea17276333/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.2] /Users/sharadsingh/.android/build-cache/27ef4e866da6e78e30b86fb19922281014c7de23/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.2] /Users/sharadsingh/.android/build-cache/e37f3b96efbc5474d74e6e8d8a1a1fca44070aed/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.2] /Users/sharadsingh/.android/build-cache/a4ac372ee3ed31f3beca0dd07c4515b727a18cd7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.0.2] /Users/sharadsingh/.android/build-cache/ba787d63579905f2143ff568187a4dc1bcaf1bbc/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.2] /Users/sharadsingh/.android/build-cache/a4c01ec6f71700e2f2eb4bddec8d1420784d3208/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.2] /Users/sharadsingh/.android/build-cache/783027bf83cac559768f3303a6d8791e5739506f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /Users/sharadsingh/.android/build-cache/fb976892010c124c8894c7aa4f0bd24e0638f04e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/sharadsingh/.android/build-cache/175f84c1ca6b298da42e214bcd013683e60dc492/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/sharadsingh/.android/build-cache/a7ec0d03e306ced3a83ed5328b335be2e714bb2d/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/sharadsingh/.android/build-cache/328a4164afc859110d96996192c46ba348006b99/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:cardview-v7:25.0.0] /Users/sharadsingh/.android/build-cache/980fef714a8cb50d7f137e728792b2c13c9b4a43/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.0.0] /Users/sharadsingh/.android/build-cache/67dfcba50daa0b527f029754ef624f8dbc85d39d/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/sharadsingh/.android/build-cache/272499c7b9ba94522114103e90ebda44050e23bc/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/sharadsingh/.android/build-cache/07535000f58796e2d7849ae6b18217125b766cb6/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/sharadsingh/.android/build-cache/21c3d63510ca531824961e6b914d916d467da3a5/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.0] /Users/sharadsingh/.android/build-cache/5d8bffd1ee9f7428c29e815ff2cb6762c9686bd8/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.0.0] /Users/sharadsingh/.android/build-cache/fbf712c8e014f0e249069a889ca3d6ee277040dd/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /Users/sharadsingh/.android/build-cache/49056c36599ff02f86373ca66696ce267189230a/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/sharadsingh/.android/build-cache/88fbd23825d1448992ac0ba8a2415d4b7299788b/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/sharadsingh/.android/build-cache/41d2219cb90f5857287b88db246fd57402a074a8/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/sharadsingh/.android/build-cache/95fcf17e1e5a3889e5168f447be212845853af19/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/sharadsingh/.android/build-cache/91a5dba1e118936ebeef6ce8462475284fc127ce/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /Users/sharadsingh/.android/build-cache/b4264bb8be462017fa80b47809d3b9adb0afab36/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.0] /Users/sharadsingh/.android/build-cache/67dfcba50daa0b527f029754ef624f8dbc85d39d/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:65:41-69
+		INJECTED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:65:15-40
+		INJECTED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:66:5-67
+MERGED from [android-network-discovery-master:library:unspecified] /Users/sharadsingh/Desktop/android-network-discovery-master/library/build/intermediates/bundles/default/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/5258ed7c2b49b5eb1e52b281e72c1e74128ecf7f/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/sharadsingh/.android/build-cache/d57e4fe8b43262ba4244ec9868f6f9fd4963cbde/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.2] /Users/sharadsingh/.android/build-cache/4711eb7d11eae618d6beb34ad119f687045bd323/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/sharadsingh/.android/build-cache/eab7ad0f323960f965753bb2f27fc084dea5fbaf/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/sharadsingh/.android/build-cache/a1de61246a7617a2ac41ffb9ebf011ab4133ee57/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.2] /Users/sharadsingh/.android/build-cache/6dc81171e50f7ccf17877c3e191eb5d6c5a399e7/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /Users/sharadsingh/.android/build-cache/d9644da267bfda8f2acae0ca75268f4299127735/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/sharadsingh/.android/build-cache/a5d1e32cefd9c5918efac8270b03efea17276333/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.2] /Users/sharadsingh/.android/build-cache/783027bf83cac559768f3303a6d8791e5739506f/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /Users/sharadsingh/.android/build-cache/fb976892010c124c8894c7aa4f0bd24e0638f04e/output/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:66:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:67:5-79
+MERGED from [com.google.android.gms:play-services-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/5258ed7c2b49b5eb1e52b281e72c1e74128ecf7f/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.2] /Users/sharadsingh/.android/build-cache/d9a746b6232101b90aa5e78c14eaf789a6f0d8c6/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/sharadsingh/.android/build-cache/eab7ad0f323960f965753bb2f27fc084dea5fbaf/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/sharadsingh/.android/build-cache/a1de61246a7617a2ac41ffb9ebf011ab4133ee57/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.2] /Users/sharadsingh/.android/build-cache/6dc81171e50f7ccf17877c3e191eb5d6c5a399e7/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] /Users/sharadsingh/.android/build-cache/d9644da267bfda8f2acae0ca75268f4299127735/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/sharadsingh/.android/build-cache/a5d1e32cefd9c5918efac8270b03efea17276333/output/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:67:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:68:5-76
+	android:name
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:68:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:69:5-81
+	android:name
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:69:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:70:5-66
+	android:name
+		ADDED from /Users/sharadsingh/Desktop/android-network-discovery-master/app/src/main/AndroidManifest.xml:70:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/5258ed7c2b49b5eb1e52b281e72c1e74128ecf7f/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/sharadsingh/.android/build-cache/a1de61246a7617a2ac41ffb9ebf011ab4133ee57/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.2] /Users/sharadsingh/.android/build-cache/6dc81171e50f7ccf17877c3e191eb5d6c5a399e7/output/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/5258ed7c2b49b5eb1e52b281e72c1e74128ecf7f/output/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/sharadsingh/.android/build-cache/d57e4fe8b43262ba4244ec9868f6f9fd4963cbde/output/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/sharadsingh/.android/build-cache/d57e4fe8b43262ba4244ec9868f6f9fd4963cbde/output/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/sharadsingh/.android/build-cache/d57e4fe8b43262ba4244ec9868f6f9fd4963cbde/output/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/sharadsingh/.android/build-cache/d57e4fe8b43262ba4244ec9868f6f9fd4963cbde/output/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/sharadsingh/.android/build-cache/d57e4fe8b43262ba4244ec9868f6f9fd4963cbde/output/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/sharadsingh/.android/build-cache/d57e4fe8b43262ba4244ec9868f6f9fd4963cbde/output/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.2] /Users/sharadsingh/.android/build-cache/d57e4fe8b43262ba4244ec9868f6f9fd4963cbde/output/AndroidManifest.xml:22:25-87
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.2] /Users/sharadsingh/.android/build-cache/81f0a89c8c91b2f4ae89dc3ee30dd0a416eddc3e/output/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.2] /Users/sharadsingh/.android/build-cache/81f0a89c8c91b2f4ae89dc3ee30dd0a416eddc3e/output/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.2] /Users/sharadsingh/.android/build-cache/81f0a89c8c91b2f4ae89dc3ee30dd0a416eddc3e/output/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.2] /Users/sharadsingh/.android/build-cache/81f0a89c8c91b2f4ae89dc3ee30dd0a416eddc3e/output/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.2] /Users/sharadsingh/.android/build-cache/81f0a89c8c91b2f4ae89dc3ee30dd0a416eddc3e/output/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.2] /Users/sharadsingh/.android/build-cache/81f0a89c8c91b2f4ae89dc3ee30dd0a416eddc3e/output/AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.2] /Users/sharadsingh/.android/build-cache/f0a15e6b1e1b3e9dd0076e47e0c9d4fc1fda8609/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.2] /Users/sharadsingh/.android/build-cache/f0a15e6b1e1b3e9dd0076e47e0c9d4fc1fda8609/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.2] /Users/sharadsingh/.android/build-cache/f0a15e6b1e1b3e9dd0076e47e0c9d4fc1fda8609/output/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.2] /Users/sharadsingh/.android/build-cache/f0a15e6b1e1b3e9dd0076e47e0c9d4fc1fda8609/output/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.2] /Users/sharadsingh/.android/build-cache/f0a15e6b1e1b3e9dd0076e47e0c9d4fc1fda8609/output/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.2] /Users/sharadsingh/.android/build-cache/f0a15e6b1e1b3e9dd0076e47e0c9d4fc1fda8609/output/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.2] /Users/sharadsingh/.android/build-cache/f0a15e6b1e1b3e9dd0076e47e0c9d4fc1fda8609/output/AndroidManifest.xml:25:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/sharadsingh/.android/build-cache/eab7ad0f323960f965753bb2f27fc084dea5fbaf/output/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/sharadsingh/.android/build-cache/eab7ad0f323960f965753bb2f27fc084dea5fbaf/output/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/sharadsingh/.android/build-cache/eab7ad0f323960f965753bb2f27fc084dea5fbaf/output/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/sharadsingh/.android/build-cache/eab7ad0f323960f965753bb2f27fc084dea5fbaf/output/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/sharadsingh/.android/build-cache/eab7ad0f323960f965753bb2f27fc084dea5fbaf/output/AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/sharadsingh/.android/build-cache/eab7ad0f323960f965753bb2f27fc084dea5fbaf/output/AndroidManifest.xml:25:94-117
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/sharadsingh/.android/build-cache/eab7ad0f323960f965753bb2f27fc084dea5fbaf/output/AndroidManifest.xml:25:118-142
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/sharadsingh/.android/build-cache/eab7ad0f323960f965753bb2f27fc084dea5fbaf/output/AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/sharadsingh/.android/build-cache/eab7ad0f323960f965753bb2f27fc084dea5fbaf/output/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/sharadsingh/.android/build-cache/eab7ad0f323960f965753bb2f27fc084dea5fbaf/output/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/sharadsingh/.android/build-cache/eab7ad0f323960f965753bb2f27fc084dea5fbaf/output/AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/sharadsingh/.android/build-cache/eab7ad0f323960f965753bb2f27fc084dea5fbaf/output/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/sharadsingh/.android/build-cache/eab7ad0f323960f965753bb2f27fc084dea5fbaf/output/AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/sharadsingh/.android/build-cache/eab7ad0f323960f965753bb2f27fc084dea5fbaf/output/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.2] /Users/sharadsingh/.android/build-cache/eab7ad0f323960f965753bb2f27fc084dea5fbaf/output/AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/sharadsingh/.android/build-cache/a1de61246a7617a2ac41ffb9ebf011ab4133ee57/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/sharadsingh/.android/build-cache/a1de61246a7617a2ac41ffb9ebf011ab4133ee57/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/sharadsingh/.android/build-cache/a963ba2185678686f0d27b7741e211fc06e6c016/output/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:22:5-81
+MERGED from [com.google.android.gms:play-services-gcm:11.0.2] /Users/sharadsingh/.android/build-cache/783027bf83cac559768f3303a6d8791e5739506f/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.2] /Users/sharadsingh/.android/build-cache/fb976892010c124c8894c7aa4f0bd24e0638f04e/output/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/sharadsingh/.android/build-cache/92df19a5065b9e8157fe96bb06c58d1b351e1648/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/sharadsingh/.android/build-cache/6e4227839e3809ba2d36f64c5ff7bd14c396506f/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/sharadsingh/.android/build-cache/6e4227839e3809ba2d36f64c5ff7bd14c396506f/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/sharadsingh/.android/build-cache/6e4227839e3809ba2d36f64c5ff7bd14c396506f/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/sharadsingh/.android/build-cache/6e4227839e3809ba2d36f64c5ff7bd14c396506f/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/sharadsingh/.android/build-cache/6e4227839e3809ba2d36f64c5ff7bd14c396506f/output/AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.2] /Users/sharadsingh/.android/build-cache/d9644da267bfda8f2acae0ca75268f4299127735/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.2] /Users/sharadsingh/.android/build-cache/d9644da267bfda8f2acae0ca75268f4299127735/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.2] /Users/sharadsingh/.android/build-cache/d9644da267bfda8f2acae0ca75268f4299127735/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/sharadsingh/.android/build-cache/a5d1e32cefd9c5918efac8270b03efea17276333/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/sharadsingh/.android/build-cache/a5d1e32cefd9c5918efac8270b03efea17276333/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/sharadsingh/.android/build-cache/a5d1e32cefd9c5918efac8270b03efea17276333/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.2] /Users/sharadsingh/.android/build-cache/a5d1e32cefd9c5918efac8270b03efea17276333/output/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/sharadsingh/.android/build-cache/ba787d63579905f2143ff568187a4dc1bcaf1bbc/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/sharadsingh/.android/build-cache/ba787d63579905f2143ff568187a4dc1bcaf1bbc/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/sharadsingh/.android/build-cache/ba787d63579905f2143ff568187a4dc1bcaf1bbc/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/sharadsingh/.android/build-cache/ba787d63579905f2143ff568187a4dc1bcaf1bbc/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/sharadsingh/.android/build-cache/ba787d63579905f2143ff568187a4dc1bcaf1bbc/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/sharadsingh/.android/build-cache/ba787d63579905f2143ff568187a4dc1bcaf1bbc/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/sharadsingh/.android/build-cache/ba787d63579905f2143ff568187a4dc1bcaf1bbc/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/sharadsingh/.android/build-cache/ba787d63579905f2143ff568187a4dc1bcaf1bbc/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/sharadsingh/.android/build-cache/ba787d63579905f2143ff568187a4dc1bcaf1bbc/output/AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/sharadsingh/.android/build-cache/175f84c1ca6b298da42e214bcd013683e60dc492/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/sharadsingh/.android/build-cache/175f84c1ca6b298da42e214bcd013683e60dc492/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/sharadsingh/.android/build-cache/175f84c1ca6b298da42e214bcd013683e60dc492/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/sharadsingh/.android/build-cache/175f84c1ca6b298da42e214bcd013683e60dc492/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.2] /Users/sharadsingh/.android/build-cache/328a4164afc859110d96996192c46ba348006b99/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] /Users/sharadsingh/.android/build-cache/328a4164afc859110d96996192c46ba348006b99/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] /Users/sharadsingh/.android/build-cache/328a4164afc859110d96996192c46ba348006b99/output/AndroidManifest.xml:20:20-65
